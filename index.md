@@ -10,21 +10,18 @@ We have used Shuttle Radar Topography Mission (SRTM) digital elevation data whic
  
  
  
-## Bioclimatic variables
+## Bioclimatic variables:
 We have used WorldClim V1 Bioclim datasets that are derived from the monthly temperature and rainfall in our model. This dataset can be used to study annual temperature and precipitation trends,  seasonality. We have used only two bioclimatic variables in our model(i):  bio 1: annual temperature in °C. Minimum temperature  is -290 and maximum temperature is 320 °C. (ii): Annual precipitation in mm. The lowest value is 0 and the highest is 11401 mm. 
 
  
  
-## Land use land cover
+## Land use land cover:
 We have used global land cover data for 2020 at 10 m resolution based on Sentinel-1 and Sentinel-2 data. It has 11 land cover classes.
  
 
 ## Vegetation datasets:
 We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation of three surface cover components: percent tree cover, percent non-tree cover, and percent bare. These products are generated yearly, the VCF product is produced using monthly composites of Terra MODIS 250 and 500 meters Land Surface Reflectance data, including all seven bands, and Land Surface Temperature.
  
-## Vegetation datasets:
-We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation of three surface cover components: percent tree cover, percent non-tree cover, and percent bare. These products are generated yearly, the VCF product is produced using monthly composites of Terra MODIS 250 and 500 meters Land Surface Reflectance data, including all seven bands, and Land Surface Temperature.
-
 
 
  
