@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## ABOUT THE PRIORITY MAPS
 
-You can use the [editor on GitHub](https://github.com/RitikaPrasai/spatial-multicriteria-analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***
+ <font color='green'>Multicriteria analysis is an analysis technique that transforms and combines geographical data and value judgements to provide a systematic analytical approach  that can be used for decision making. Decision making can include identifying risk levels, uncertainty, developing prioritization maps. We can develop models based on various factors and weigh/rank those factors by providing scores/choices. We have used following datasets in our model: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Elevation:
+We have used Shuttle Radar Topography Mission (SRTM) digital elevation data which provides elevation of 1 arc-second (approximately 30 m) in our model. We have used global data so that users can choose/select/filter the location of their interest and build the model. For more information about this dataset please visit SRTM Quick Guide.
+Bioclimatic variables
+We have used WorldClim V1 Bioclim datasets that are derived from the monthly temperature and rainfall in our model. This dataset can be used to study annual temperature and precipitation trends,  seasonality. We have used only two bioclimatic variables in our model(i):  bio 1: annual temperature in °C. Minimum temperature  is -290 and maximum temperature is 320 °C. (ii): Annual precipitation in mm. The lowest value is 0 and the highest is 11401 mm. 
 
-```markdown
-Syntax highlighted code block
+Land use land cover
+We have used global land cover data for 2020 at 10 m resolution based on Sentinel-1 and Sentinel-2 data. It has 11 land cover classes.
 
-# Header 1
-## Header 2
-### Header 3
+Vegetation datasets:
+We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation of three surface cover components: percent tree cover, percent non-tree cover, and percent bare. These products are generated yearly, the VCF product is produced using monthly composites of Terra MODIS 250 and 500 meters Land Surface Reflectance data, including all seven bands, and Land Surface Temperature.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+  
+  A quick video demonstrating the method to use this application has been uploaded. Please watch the video before using the application. You may also contact  the developer of this application at ritikaprasai3@gmail.com should you have any questions or recommendations/suggestion. If you are using the application for your research please cite the application using the given information</font>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RitikaPrasai/spatial-multicriteria-analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- *Author full name: Ritika Prasai*
+- *Release date: 19 April, 2022*
+- *Application title: Prioritymaps.com*
+- *Version: 1.0*
+- *URL: https://www.prioritymaps.com/*
 
-### Support or Contact
+A publication is under review
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1><font color='green'>Watch-video</font> </h1>
+
+<p align="center">
+<iframe width="560" height="315" src="https://youtu.be/iPLx_3WNGMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
