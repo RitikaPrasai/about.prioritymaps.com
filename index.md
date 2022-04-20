@@ -35,5 +35,5 @@ A publication is under review
 <h1><font color='green'>Watch-video</font> </h1>
 
 <p align="center">
-<iframe width="560" height="315" src="https://youtu.be/iPLx_3WNGMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/iPLx_3WNGMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>
 </p>
