@@ -1,7 +1,7 @@
 # About-Priority-Maps
 
 ***
- <font color='green'>Multicriteria analysis is an analysis technique that transforms and combines geographical data and value judgements to provide a systematic analytical approach  that can be used for decision making. Decision making can include identifying risk levels, uncertainty, developing prioritization maps. We can develop models based on various factors and weigh/rank those factors by providing scores/choices. We have used following datasets in our model: 
+ <font color='green'> Spatial multicriteria analysis is an analysis technique that transforms and combines geographical data and value judgements to provide a systematic analytical approach  that can be used for decision making. Decision making can include identifying risk levels, uncertainty, developing prioritization maps. We can develop models based on various factors and weigh/rank those factors by providing scores/choices. We have used following datasets in our model: 
 
 Elevation:
 We have used Shuttle Radar Topography Mission (SRTM) digital elevation data which provides elevation of 1 arc-second (approximately 30 m) in our model. We have used global data so that users can choose/select/filter the location of their interest and build the model. For more information about this dataset please visit SRTM Quick Guide.
