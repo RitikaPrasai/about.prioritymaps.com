@@ -10,21 +10,26 @@ We have used Shuttle Radar Topography Mission (SRTM) digital elevation data whic
  
  
  
-##Bioclimatic variables
+## Bioclimatic variables
 We have used WorldClim V1 Bioclim datasets that are derived from the monthly temperature and rainfall in our model. This dataset can be used to study annual temperature and precipitation trends,  seasonality. We have used only two bioclimatic variables in our model(i):  bio 1: annual temperature in °C. Minimum temperature  is -290 and maximum temperature is 320 °C. (ii): Annual precipitation in mm. The lowest value is 0 and the highest is 11401 mm. 
 
  
  
-##Land use land cover
+## Land use land cover
 We have used global land cover data for 2020 at 10 m resolution based on Sentinel-1 and Sentinel-2 data. It has 11 land cover classes.
  
 
-##Vegetation datasets:
+## Vegetation datasets:
 We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation of three surface cover components: percent tree cover, percent non-tree cover, and percent bare. These products are generated yearly, the VCF product is produced using monthly composites of Terra MODIS 250 and 500 meters Land Surface Reflectance data, including all seven bands, and Land Surface Temperature.
+ 
+## Vegetation datasets:
+We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation of three surface cover components: percent tree cover, percent non-tree cover, and percent bare. These products are generated yearly, the VCF product is produced using monthly composites of Terra MODIS 250 and 500 meters Land Surface Reflectance data, including all seven bands, and Land Surface Temperature.
+
+
 
  
 
-##Model development
+## Model development
 We used only raster as the input layers in our models. We used both continuous and discrete (LULC) raster in our model. We resampled the input layers to match the resolution and cell size of all the input layers. Users can then reclassify the continuous raster either in ascending (increasing values/lowest to highest) or descending (highest to lowest) in their model based on the requirements of the projects. Then the model is built on weighted overlay sum concept. The sum of all the weights/scores should be equal to 100.  We provide scores based on varying levels of ‘importance’ or weights to the different input layers. 
 
   A quick video demonstrating the method to use this application has been uploaded. Please watch the video before using the application. You may also contact  the developer of this application at ritikaprasai3@gmail.com should you have any questions or recommendations/suggestion. If you are using the application for your research please cite the application using the given information</font>
