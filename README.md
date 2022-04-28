@@ -28,7 +28,7 @@ We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation
 - *Version: 1.0*
 - *URL: https://www.prioritymaps.com/*
 
-A publication is under review
+A manuscript is under review
 
 <h1><font color='green'>Watch-video</font> </h1>
 
