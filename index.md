@@ -30,18 +30,19 @@ We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation
 We used only raster as the input layers in our models. We used both continuous and discrete (LULC) raster in our model. We resampled the input layers to match the resolution and cell size of all the input layers. Users can then reclassify the continuous raster either in ascending (increasing values/lowest to highest) or descending (highest to lowest) in their model based on the requirements of the projects. Then the model is built on weighted overlay sum concept. The sum of all the weights/scores should be equal to 100.  We provide scores based on varying levels of ‘importance’ or weights to the different input layers. 
 
   A quick video demonstrating the method to use this application has been uploaded. Please watch the video before using the application. You may also contact  the developer of this application at ritikaprasai3@gmail.com should you have any questions or recommendations/suggestion. We will work on adding more functionatilies based on user's feedback to this model. If you are using the web-based tool for your research please cite the tool using the given information</font>
+  
+  DOI: https://doi.org/10.54660/anfo.2022.3.3.19
+  https://www.allmultidisciplinaryjournal.com/archivesarticle/2022.v3.i3.850.pdf
+  
+  
+  As this application uses geemap package, please cite this article:
+  Wu, Q., (2020). geemap: A Python package for interactive mapping with Google Earth Engine. The Journal of Open Source Software, 5(51), 2305. https://doi.org/10.21105/joss.02305
+Wu, Q., Lane, C. R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H. E., & Lang, M. W. (2019). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics using Google Earth Engine. Remote Sensing of Environment, 228, 1-13. https://doi.org/10.1016/j.rse.2019.04.015 (pdf | source code)
 
 
 
 
 
-- *Author full name: Ritika Prasai*
-- *Release date: 19 April, 2022*
-- *Application title: Prioritymaps.com*
-- *Version: 1.0*
-- *URL: https://www.prioritymaps.com/*
-
-A publication is under review
 
 <h1><font color='green'>Watch-video</font> </h1>
 
