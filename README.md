@@ -18,17 +18,8 @@ We used The Terra MODIS Vegetation Continuous Fields (VCF) to derive a gradation
   
   A quick video demonstrating the method to use this application has been uploaded. Please watch the video before using the application. You may also contact  the developer of this application at ritikaprasai3@gmail.com should you have any questions or recommendations/suggestion. If you are using the application for your research please cite the application using the given information</font>
 
-
-
-
-
-- *Author full name: Ritika Prasai*
-- *Release date: 19 April, 2022*
-- *Application title: Prioritymaps.com*
-- *Version: 1.0*
-- *URL: https://www.prioritymaps.com/*
-
-A publication is under review
+https://www.allmultidisciplinaryjournal.com/archivesarticle/2022.v3.i3.850.pdf
+DOI: https://doi.org/10.54660/anfo.2022.3.3.19
 
 <h1><font color='green'>Watch-video</font> </h1>
 
